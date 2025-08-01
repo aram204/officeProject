@@ -1,8 +1,15 @@
-body{
-    margin: 0;
-}
-
 header{
   font-family: "Montserrat", Arial;
-  font-size: bold;
+  font-weight: 600px;
+}
+
+html, body{
+  margin: 0;
+  overflow-x: hidden;
+}
+
+main {
+  margin-top: 160px;
+  margin-left: 30px;
+  font-family: "Montserrat", Arial;
 }
